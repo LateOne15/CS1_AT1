@@ -1,6 +1,6 @@
 ﻿// Lleyton Eggins, 30128198
-// 31/07/2025, 07/08/2025
-// AT1_Q2_UV_Index, documentation,V1.0
+// Created 31/07/2025, Modified 07/08/2025
+// AT1_Q2_UV_Index, V1.0
 // Question 2. UV Index safety display
 // take user input for UV index, display corresponding message of safety with colour determined by switch/case
 

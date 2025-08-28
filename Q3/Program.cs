@@ -1,5 +1,5 @@
 ﻿// Lleyton Eggins, 30128198
-// 31/07/2025, 14/08/2025
+// Created 31/07/2025, Modified 14/08/2025
 // AT1_Q3_CITE_FAQ, V1.0
 // Question 3. CITE FAQ knowledge base menu
 // take user input for a menu option on FAQ items, display requested item, then return 

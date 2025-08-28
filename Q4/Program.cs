@@ -1,5 +1,5 @@
 ﻿// Lleyton Eggins, 30128198
-// 07/08/2025, 14/08/2025
+// Created 07/08/2025, Modified 28/08/2025
 // AT1_Q4_Twin_Primes_Perfect_Number, V1.0
 // Question 4. Debug existing code and format to CITE/VS standards, then make improvements requested.
 // Program determines perfect numbers amd twin primes up to a specificed range
