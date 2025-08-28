@@ -6,8 +6,16 @@
 
 namespace Q4
 {
+    /// <summary>
+    /// AT1 Question 4. Debug existing code and format to CITE/VS standards, then make improvements requested.
+    /// Program determines perfect numbers amd twin primes up to a specificed range.
+    /// </summary>
     internal class Program
     {
+        /// <summary>
+        /// The main block. It calls each method after asking for an input for each, then informs the user that the program has concluded. 
+        /// </summary>
+        /// <param name="args">Command line arguments. None are used for this program.</param>
         static void Main(string[] args)
         {
             Console.WriteLine("Provide a maximum range to determine perfect numbers up to.");
@@ -24,6 +32,10 @@ namespace Q4
             Console.ReadKey();
         }
         #region PerfectNumber
+        /// <summary>
+        /// Determines perfect numbers between 1 and a specified range and prints them to the command line. These perfect numebrs are equal to the sum of their factors other than themselves.
+        /// </summary>
+        /// <param name="uppperLimit">The uppermost limit for calculating perfect numbers. It is not inclusive, unlike the lower limit of 1.</param>
         static void PerfectNumber(int uppperLimit)  //determines perfect numbers up to a range. Perfect numbers are equal to the sum of their factors other than themselves
         {
             int divisor, sum;
@@ -50,7 +62,11 @@ namespace Q4
         #endregion PerfectNumber
 
         #region TwinPrimes
-        static void TwinPrimes(int upperLimit) //determine twin primes up to a limit. Twin primes are primes numbers two integers apart
+        /// <summary>
+        /// Determines twin primes between 1 and a specified range, printing them to the command line. Twin primes are prime numbers two integers apart.
+        /// </summary>
+        /// <param name="upperLimit">The upper limit for caluclating twin primes. This is not inclusive, unlike the lower limit of one.</param>
+        static void TwinPrimes(int upperLimit) //determine twin primes up to a limit. Twin primes are prime numbers two integers apart
         {
             int secondPrime;
             int count1 = 0, count2 = 0;
