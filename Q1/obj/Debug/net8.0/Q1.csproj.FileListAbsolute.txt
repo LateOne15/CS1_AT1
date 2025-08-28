@@ -1,0 +1,14 @@
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\bin\Debug\net8.0\Q1.exe
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\bin\Debug\net8.0\Q1.deps.json
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\bin\Debug\net8.0\Q1.dll
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\bin\Debug\net8.0\Q1.pdb
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.dll
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\refint\Q1.dll
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.pdb
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+D:\TAFE\CS1\Assessments\AT1\30128198_AT1\Q1\obj\Debug\net8.0\ref\Q1.dll
